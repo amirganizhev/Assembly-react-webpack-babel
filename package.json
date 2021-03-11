@@ -8,5 +8,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/plugin-transform-block-scoping": "^7.12.13",
+    "@babel/plugin-transform-classes": "^7.13.0",
+    "@babel/plugin-transform-template-literals": "^7.13.0",
+    "@babel/preset-env": "^7.13.10",
+    "@babel/preset-react": "^7.12.13"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1"
+  }
 }
